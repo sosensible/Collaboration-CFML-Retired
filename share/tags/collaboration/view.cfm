@@ -1,0 +1,1 @@
+<cfoutput><cfif thisTag.executionMode EQ "start"></cfif><cfif thisTag.executionMode EQ "end" OR thisTag.hasEndTag = "false">#thisTag.generatedContent#<cfset thisTag.generatedContent = ""></cfif></cfoutput>

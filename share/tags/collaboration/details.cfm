@@ -1,0 +1,1 @@
+<cfset elementName = "details"><cfinclude template="_base.cfm" />

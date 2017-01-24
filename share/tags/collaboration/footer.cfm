@@ -1,0 +1,1 @@
+<cfset elementName = "footer"><cfinclude template="_base.cfm" />

@@ -1,0 +1,1 @@
+<cfset elementName = "thead"><cfinclude template="_base.cfm" />

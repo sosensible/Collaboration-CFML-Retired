@@ -1,0 +1,1 @@
+<cfset elementName = "colgroup"><cfinclude template="_base.cfm" />

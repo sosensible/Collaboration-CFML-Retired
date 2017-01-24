@@ -1,0 +1,1 @@
+<cfset elementName = "figure"><cfinclude template="_base.cfm" />

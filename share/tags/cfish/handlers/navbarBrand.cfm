@@ -1,0 +1,2 @@
+<cfif listContainsNoCase("render,paramRender",ATTRIBUTES.mode)><cfparam name="ATTRIBUTES.href" default="" />
+			<cfoutput><a class="brand" href="#VARIABLES.attr.href#">#REQUEST._content.getBlockContent(name:ATTRIBUTES.name)#</a></cfoutput></cfif>				

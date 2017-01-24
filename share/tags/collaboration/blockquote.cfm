@@ -1,0 +1,1 @@
+<cfset elementName = "blockquote"><cfinclude template="_base.cfm" />
